@@ -1,0 +1,5 @@
+streamlit
+huggingface_hub
+google-genai
+reportlab
+pillow
